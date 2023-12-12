@@ -17,12 +17,12 @@ Bob plays a game called "Stepping Stones" where he can move to certain blocks if
 
 ## Constraints
 
-\[
-1 \leq T \leq 10^5
-\]
-\[
+$$
+1 \leq T \leq 10^5$$
+
+$$
 1 \leq N \leq 10^{18}
-\]
+$$
 
 ## Sample Input
 
